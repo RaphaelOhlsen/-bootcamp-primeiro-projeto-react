@@ -94,12 +94,11 @@ export const Repositories = styled.div`
 
     div {
       margin: 0 20px;
-      color: #3d3d4d;
       flex: 1;
 
       strong {
         font-size: 18px;
-        color: #a8a8b3;
+        color: #3d3d4d;
         margin-top: 4px;
       }
 
